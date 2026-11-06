@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+    font-family: sans-serif;
+}
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    height: 60px;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    height: 555px;
+}
+nav {
+    background-color: 	#E8E8E8;
+    width: 160px;
+    padding: 16px;
+}
+section {
+    width: 75%;
+    padding: 16px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+    height: 55px;
+    font-weight: bold;
+}
